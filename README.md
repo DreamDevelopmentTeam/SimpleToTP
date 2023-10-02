@@ -12,3 +12,5 @@
 | generate_totp_plus() | 根据传入的密钥和时间戳生成ToTP验证码 | 
 | generate_totp_now() | 根据传入的密钥和当前时间生成ToTP验证码 | 
 | generate_totp_plus_now() | 根据传入的密钥和当前时间生成ToTP验证码 | 
+| generate_totp_easy() | 根据传入的密钥和当前时间生成ToTP验证码 | 
+| generate_totp_easy_now() | 根据传入的密钥和当前时间生成ToTP验证码 | 
